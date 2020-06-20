@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-319402560919942544/29347351716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-39402560999412544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>729586005355-sroaqc5nm13gkkcu7ogrqecoubd1dl5i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.72915860105355-sroaqc5nm13gkkcu7ogrq3ecou4bd1dl5i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOq8Z-5T_-CUMBS1-FUTdQqRtjIbHpUMM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>712958160053155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.ifsoft.mynetwork</string>
+	<key>PROJECT_ID</key>
+	<string>social-network-1077</string>
+	<key>STORAGE_BUCKET</key>
+	<string>social-network-10717.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:7295860105355:ios:8fcc79571e03c255c</string>
+	<key>DATABASE_URL</key>
+	<string>https://social-network-1077.firebaseio.com</string>
+</dict>
+</plist>
